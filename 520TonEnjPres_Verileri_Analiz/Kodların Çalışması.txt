@@ -1,0 +1,3 @@
+
+- orijinal_veri klasöründe 520TonEnjPres.xlsx dosyasının yer alması lazım, dosyadaki gereksiz açıklama satırları silinmeli.
+- Öncelikle 520TonEnjPres_temizleme.ipynb dosyası sonrasında analizler_anomali_tesptitleri_ve_uyari_sistemleri.ipynb dosyası çalıştırılmalı. 
