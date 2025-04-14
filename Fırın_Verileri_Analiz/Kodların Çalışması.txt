@@ -1,0 +1,3 @@
+
+- orijinal_veri klasöründe Fırın Verileri[18].xlsx dosyasının yer alması lazım.
+- Öncelikle firin_verileri_temizleme.ipynb dosyası sonrasında analizler_anomali_tespitleri_ve_uyari_sistemleri.ipynb dosyası ve en sonunda arıza tahmin model dosyaları çalıştırılmalı. 
