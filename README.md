@@ -1,7 +1,7 @@
 # Veri Analizi Case Study 
 
 
-Orijinal veriler: https://mail.google.com/mail/u/0/#search/ege/FMfcgzQZTzgqDxQDVxtmsTKMmwwzkvrS
+Original data: https://mail.google.com/mail/u/0/#search/ege/FMfcgzQZTzgqDxQDVxtmsTKMmwwzkvrS
 
 
-Analizler farklı klasörlere ayrılmıştır ve yapılan analizlerin açıklamaları için readmeler de klasörlerde yer alır. 
+The analyses are divided into different folders and the readouts for the explanations of the analyses are also included in the folders.
