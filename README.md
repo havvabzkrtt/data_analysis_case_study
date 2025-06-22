@@ -1,4 +1,4 @@
-# Veri Analizi Case Study 
+# Data Analysis Case Study 
 
 
 Original data: https://mail.google.com/mail/u/0/#search/ege/FMfcgzQZTzgqDxQDVxtmsTKMmwwzkvrS
